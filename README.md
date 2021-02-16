@@ -1,2 +1,2 @@
-# SPA-Angular
+# SPA-AngularJS
 Cousera Course
